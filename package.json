@@ -1,0 +1,10 @@
+{
+  "name": "mammal-madness",
+  "version": "1.0.0",
+  "description": "Generating brackets for the March mammal madness challenge: https://libguides.asu.edu/MarchMammalMadness",
+  "main": "src/index.js",
+  "repository": "git@github.com:dowlandaiello/mammal-madness.git",
+  "author": "Dowland Aiello <mitsukomegumii@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
